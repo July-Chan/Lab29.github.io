@@ -1,0 +1,17 @@
+D:\ООП\Lab29\Lab29\bin\Debug\net8.0-windows\Lab29.exe
+D:\ООП\Lab29\Lab29\bin\Debug\net8.0-windows\Lab29.deps.json
+D:\ООП\Lab29\Lab29\bin\Debug\net8.0-windows\Lab29.runtimeconfig.json
+D:\ООП\Lab29\Lab29\bin\Debug\net8.0-windows\Lab29.dll
+D:\ООП\Lab29\Lab29\bin\Debug\net8.0-windows\Lab29.pdb
+D:\ООП\Lab29\Lab29\obj\Debug\net8.0-windows\Lab29.Form1.resources
+D:\ООП\Lab29\Lab29\obj\Debug\net8.0-windows\Lab29.csproj.GenerateResource.cache
+D:\ООП\Lab29\Lab29\obj\Debug\net8.0-windows\Lab29.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Lab29\Lab29\obj\Debug\net8.0-windows\Lab29.AssemblyInfoInputs.cache
+D:\ООП\Lab29\Lab29\obj\Debug\net8.0-windows\Lab29.AssemblyInfo.cs
+D:\ООП\Lab29\Lab29\obj\Debug\net8.0-windows\Lab29.csproj.CoreCompileInputs.cache
+D:\ООП\Lab29\Lab29\obj\Debug\net8.0-windows\Lab29.dll
+D:\ООП\Lab29\Lab29\obj\Debug\net8.0-windows\refint\Lab29.dll
+D:\ООП\Lab29\Lab29\obj\Debug\net8.0-windows\Lab29.pdb
+D:\ООП\Lab29\Lab29\obj\Debug\net8.0-windows\Lab29.genruntimeconfig.cache
+D:\ООП\Lab29\Lab29\obj\Debug\net8.0-windows\ref\Lab29.dll
+D:\ООП\Lab29\Lab29\obj\Debug\net8.0-windows\Lab29.SettingsForm.resources
